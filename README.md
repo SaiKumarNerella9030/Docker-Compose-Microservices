@@ -29,8 +29,8 @@ This project demonstrates a real-world microservices architecture using **Docker
 ---
 
 ## 🗂️ Project Structure
-docker-network-lab/
 ```
+docker-network-lab/
 ├── frontend/ # React app (served via Nginx)
 │ ├── Dockerfile
 │ ├── src/
