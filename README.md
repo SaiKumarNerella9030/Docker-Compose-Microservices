@@ -30,6 +30,7 @@ This project demonstrates a real-world microservices architecture using **Docker
 
 ## 🗂️ Project Structure
 docker-network-lab/
+```
 ├── frontend/ # React app (served via Nginx)
 │ ├── Dockerfile
 │ ├── src/
@@ -45,7 +46,7 @@ docker-network-lab/
 ├── .env # Environment variables
 ├── docker-compose.yml
 └── Jenkinsfile # Jenkins pipeline script
-
+```
 
 ---
 
