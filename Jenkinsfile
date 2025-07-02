@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git url: 'https://github.com/your-repo/Docker-Compose-Microservices.git'
+        git url: 'https://github.com/your-repo/Docker-Compose-Microservices-with-Jenkins-CI-CD.git'
       }
     }
 
