@@ -1,6 +1,6 @@
 # 🐳 Docker Compose Microservices with Jenkins CI/CD
 
-This project demonstrates a real-world microservices architecture using **Docker Compose**, featuring a **React frontend**, **Node.js backend**, **PostgreSQL database**, and **Jenkins** for CI/CD. It's designed for hands-on DevOps practice and interview readiness.
+This project demonstrates a real-world microservices architecture using **Docker Compose**, featuring a **React frontend**, **Node.js backend**, **PostgreSQL database**, and **Jenkins** for CI/CD. 
 
 ---
 
